@@ -32,8 +32,10 @@ export default function Hero() {
         setCharIndex((c) => c - 1)
       }, 40)
     } else if (deleting && charIndex === 0) {
-      setDeleting(false)
-      setRoleIndex((i) => (i + 1) % roles.length)
+      timeout = setTimeout(() => {
+        setDeleting(false)
+        setRoleIndex((i) => (i + 1) % roles.length)
+      }, 0)
     }
 
     return () => clearTimeout(timeout)
