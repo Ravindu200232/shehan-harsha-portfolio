@@ -4,6 +4,18 @@
 ![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191550.png?raw=true)
 ![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191615.png?raw=true)
 ![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191704.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191723.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191737.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191753.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191812.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191828.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191841.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191912.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191926.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191941.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20192003.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20192017.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20192030.png?raw=true)
 A cutting-edge, modern portfolio website featuring advanced animations, 3D effects, and automatic GitHub integration.
 
 ## ✨ Features
