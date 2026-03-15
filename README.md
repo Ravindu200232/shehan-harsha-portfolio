@@ -1,5 +1,5 @@
 # 🚀 Advanced 3D Portfolio - Shehan Harsha Kumara
-
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191407.png?raw=true)
 A cutting-edge, modern portfolio website featuring advanced animations, 3D effects, and automatic GitHub integration.
 
 ## ✨ Features
