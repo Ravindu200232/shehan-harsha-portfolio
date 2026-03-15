@@ -3,6 +3,7 @@
 ![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191449.png?raw=true)
 ![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191550.png?raw=true)
 ![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191615.png?raw=true)
+![image alt](https://github.com/ShehanHarshaKumara/shehan-harsha-portfolio/blob/Home/Screenshot%202026-03-15%20191704.png?raw=true)
 A cutting-edge, modern portfolio website featuring advanced animations, 3D effects, and automatic GitHub integration.
 
 ## ✨ Features
